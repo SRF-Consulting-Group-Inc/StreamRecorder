@@ -2,7 +2,7 @@ configobj==5.0.6
 six==1.15.0
 subprocess32==3.5.4
 psutil==5.7.2
-pytest==4.6.11
+pytest==9.0.3
 requests==2.24.0
 zeep==3.4.0
 pika==1.1.0
